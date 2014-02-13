@@ -7,6 +7,6 @@
 </head>
 <body>
 <h1>Wat fijn, het is nu morgen Valentijn</h1>
-
+<h2>${boodschap}</h2>
 </body>
 </html>
